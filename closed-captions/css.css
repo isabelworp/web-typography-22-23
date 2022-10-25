@@ -24,9 +24,9 @@ Feel free to adjust the defaults to your needs.
 
 .voice1 {
 	font-family: "brenner mono";
-	bottom: -110px;
+	bottom: -160px;
 	color: white;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 .voice2 {
@@ -34,15 +34,15 @@ Feel free to adjust the defaults to your needs.
 	font-style: italic;
 	top: 1px;
 	color: white;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 .voice4 {
 	font-family: "brenner slab";
-	bottom: -105px;
+	bottom: -135px;
 	right: 10px;
 	color:green;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 /* **********************************************
@@ -59,7 +59,7 @@ You probably want to change the styling.
 	font-style: none;
 	color: green;
 	font-size: 50px;
-	font-family: "brenner mono";
+	font-family: "brenner slab";
 }
 
 
@@ -108,7 +108,7 @@ Sounds.
 /* De sounds per sound onderverdeeld. Elke sound heeft zijn eigen styling. */
 
 .sound1 #video-container {
-	box-shadow: 0px 0px 20px 130px rgb(95, 0, 0);
+  box-shadow: 0px 0px 20px 130px rgb(95, 0, 0);
   transition: 1s;
 }
 
@@ -228,18 +228,52 @@ body.sound14 {
 	100% { transform: translate(-2px, -2px); }
 }
 
-.sound16 #video-mask{
+.sound15 #video-mask {
+	animation: zoom-in-zoom-out2 1s ease infinite,
+		shake .5s infinite;
+  }
+  
+  @keyframes zoom-in-zoom-out2 {
+	0% {
+	  transform: scale(1, 1);
+	}
+
+	50% {
+	  transform: scale(1.5, 1.5);
+	}
+
+	100% {
+	  transform: scale(1, 1);
+	}
+}
+
+.sound16 #video-mask {
+	animation: zoom-in-zoom-out3 1s ease infinite,
+		shake .3s infinite;
+  }
+  
+  @keyframes zoom-in-zoom-out3 {
+	0% {
+	  transform: scale(1, 1);
+	}
+
+	100% {
+	  transform: scale(2.5, 2.5);
+	}
+}
+
+.sound17 #video-mask{
 	box-shadow: none;
 	animation: none;
 	transition: 1s;
 }
 
-.sound16 #video-container{
+.sound17 #video-container{
 	box-shadow: none;
 	transition: 1s;
 }
 
-body.sound17 {
+body.sound18 {
 	box-shadow: none;
 	animation: none;
 	transition: 1s;

@@ -1,7 +1,7 @@
-# Web Typography, 2020/2021
+# Web Typography Isabel Worp
 Ik kreeg de opdracht om voor een doof persoon een fragment uit de film 'Bladerunner 2019' te bewerken zodat een doof persoon de spanning van de film ook voelt. Toen ik deze opdracht kreeg raakte ik al snel in paniek, want ik heb al een tijdje niet met HTML en CSS gewerkt. Het is ook zeker niet mijn sterkste punt, vaak als dingen mislukken heb ik geen motivatie meer om verder te gaan. Voor mij was dit dus zeker een uitdaging, omdat we ook maar twee weken plus vakantie hadden om dit vak af te ronden.
 
-# Mijn ideeën die ik wel/niet heb uitgeprobeerd
+# Mijn ideeën 
 Mijn idee was om het fragment vrij simpel te houden, puur omdat mijn skills niet al te goed zijn en omdat ik het anders te druk vind worden voor een doof persoon, die doet puur alles op zicht en als er teveel onzin op het scherm getoond word was het naar mijn idee veel te vol.
 
 Ik begon om naar de gehele code te kijken en te onderzoeken. Wat is wat en wat doet iets? Ik kwam er eerst niet uit maar na wat vragen en Google kwam ik er al gauw achter wat wat was.
@@ -38,9 +38,19 @@ Omdat ik toch al bezig was met de box-shadow op de body probeerde ik dat ook uit
 
 <img src="img/scherm8.png" alt="Screenshot 8">
 
-Na wat feedback van medestudenten wist ik dat dit nog niet irritant genoeg was, ik wilde eigenlijk het beeld laten draaien maar ik kwam er niet uit, dus toen dacht ik aan het beeld snel in en uit laten zoomen, en dan steeds sneller zodat het gewoon echt pijn doet aan je ogen. Ik begon eerst met 1 animatie die ik had gevonden op internet en het leek als ergens op, nu nog sneller. Na nog wat extra's sounds in de Java te zetten kwam ik uiteindelijk op 3 animaties voor het in en uitzoomen van de video. Dit duurde ontzettend lang en ik heb er zelf ook pijn van gekregen in mijn ogen ;)
+Na wat feedback van medestudenten wist ik dat dit nog niet irritant genoeg was, ik wilde eigenlijk het beeld laten draaien maar ik kwam er niet uit, dus toen dacht ik aan het beeld snel in en uit laten zoomen, en dan steeds sneller zodat het gewoon echt pijn doet aan je ogen. Ik begon eerst met 1 animatie die ik had gevonden op internet en het leek als ergens op, nu nog sneller. Na nog wat extra's sounds in de Java te zetten kwam ik uiteindelijk op 3 animaties voor het in en uitzoomen van de video. Dit duurde ontzettend lang en ik heb er zelf ook pijn van gekregen in mijn ogen ;) Op de screenshot is het getril en het ingezoom niet gezien, dat is natuurlijk wel te zien in e video!
 
 <img src="img/scherm9.png" alt="Screenshot 9">
+
+Op het einde als het gepiep stopt blijft de witte box-shadow om de body nog staan omdat het ineens helemaal stil wordt, maar toch nog een bepaalde sfeer hangt door het gesprek wat de persoon in de film heeft gehad. Na de laatste zin verdwijnt deze box shadow ook en daar stopt fragment deel 1. Ik heb er niet voor gekozen om deel 2 te doen omdat mijn css skills niet al te best zijn en ik het een vrij lastig fragment vind. Ik heb de film zelf ook niet gekeken omdat dit soort films helemaal niets voor mij zijn.
+
+<img src="img/scherm10.png" alt="Screenshot 10">
+
+# Korte reflectie
+
+Ik vond het heel fijn om in de lessen zelfstandig te werken en feedback te krijgen en om samen met je medestudenten te brainstormen over nieuwe ideeën. Ik vond het wel heel snel gaan, wat aan de ene kant fijn is want anders kan ik dit fragment echt dromen, maar ook nadelig omdat ik niet de beste ben in css en het dus moeilijk vind om hier aan te werken. Ook als CMD'er ben je gewend om dingen mooi te maken en hier was het doel meer om het toegankelijk te maken en niet per se mooi. Ik heb wel gemerkt dat ik css soms lastiger vond dan dat ik dacht, ik kan sommige dingen makkelijk zelf als ik bijvoorbeeld even hulp vraag.
+
+
 
 
 
