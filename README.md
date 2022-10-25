@@ -9,3 +9,5 @@ Ik begon om naar de gehele code te kijken en te onderzoeken. Wat is wat en wat d
 Ik kwam op de JaveScript van sounds terecht en kreeg al snel goede ideeën, namelijk als de sound afgespeeld wordt dat de achtergrond kleur veranderd. Eerst was de achtergrond wit, en die pastte ik snel aan naar zwart omdat dat al gelijk er wat spannender uit ziet. Het leek mij leuk om na het eerste geluid (het alarm) de achtergrond naar rood te veranderen. Dat zag er zo uit:
 
 <img src="img/scherm1.png" alt="Screenshot 1">
+
+<img src="img/scherm2.png" alt="Screenshot 2">
